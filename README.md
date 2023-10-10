@@ -1,7 +1,18 @@
 # 💫 About Me:
-* 👀 `My name is` : **Binaris**,<br>* 🏺 `I'm` : **17 years old**,<br>* 📚 `I’m currently learning` : **Fabric API**,<br>* 🔖 `Working on` : **My First Fabric Mod**,<br>* 🎮 `Best games` : **Minecraft, Terraria, TBOI**<br> <br>
+📺Hi! I'm Binaris and I like to program in my free time and I only have java and Fabric in my mind right now...
 
-## 🌐 Socials:
+💻I love the open-source, so a lot of my projects has the MIT license, I constantly create new projects in my free time, especially mods for any game
+
+🧩I want to study data sciencie or just Software Engineer
+
+🧭Recently I'm browsing for studios or groups about minecraft modding, specially in fabric
+
+
+* Collaborator in [🌀Oena Studio🌀](https://twitter.com/OenaStudio?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* Now just a basic Fabric mod creator
+* I want to create games for fun
+* When I'm bored I love to create 1-day-projects
+## 🌐 Where/How to contact me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/albertbn00) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cbinary01) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BadBinary01) 
 
 # 💻 Tech Stack:
@@ -14,4 +25,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Binaris00&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/594274616093179936)](https://discord.com/users/594274616093179936)
