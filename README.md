@@ -12,8 +12,17 @@
 * Now just a basic Fabric mod creator
 * I want to create games for fun
 * When I'm bored I love to create 1-day-projects
+
+  
 ## 🌐 Where/How to contact me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/albertbn00) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cbinary01) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BadBinary01) 
+![Discord](https://img.shields.io/badge/discord(nolink)-binaris-blue?style=for-the-badge&logo=discord&labelColor=2f2f2f&color=5865F2)
+[![Twitter](https://img.shields.io/badge/twitter-BadBinary01-blue?style=for-the-badge&logo=twitter&labelColor=fefefa&color=01c1ed
+)](https://twitter.com/BadBinary01)
+[![Instagram](https://img.shields.io/badge/instagram-albertbn00-blue?style=for-the-badge&logo=instagram&labelColor=2f2f2f&color=ff4cb9
+)](https://www.instagram.com/albertbn00/)
+[![CurseForge](https://img.shields.io/badge/curseforge-binaris__00-blue?style=for-the-badge&logo=curseforge&labelColor=151515&color=ca7200)](https://legacy.curseforge.com/members/binaris_00/projects)
+[![Modrith](https://img.shields.io/badge/modrinth-Binaris00-blue?style=for-the-badge&logo=modrinth&labelColor=2f2f2f&color=57F287
+)](https://modrinth.com/user/Binaris00)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=for-the-badge&logo=godot-engine&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
