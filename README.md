@@ -8,7 +8,6 @@
 🧭Recently I'm browsing for studios or groups about minecraft modding, specially in fabric
 
 
-* Collaborator in [🌀Oena Studio🌀](https://twitter.com/OenaStudio?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 * Now just a basic Fabric mod creator
 * I want to create games for fun
 * When I'm bored I love to create 1-day-projects
