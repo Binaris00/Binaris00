@@ -1,15 +1,14 @@
 # 💫 About Me:
-📺Hi! I'm Binaris and I like to program in my free time and I only have java and Fabric in my mind right now...
+📺Hi, I'm Binaris!!
 
-💻I love the open-source, so a lot of my projects has the MIT license, I constantly create new projects in my free time, especially mods for any game
+💻I love the open-source, so a lot of my projects has the MIT license, I constantly create new projects in my free time, especially mods or plugins
 
-🧩I want to study data sciencie or just Software Engineer
-
-🧭Recently I'm browsing for studios or groups about minecraft modding, specially in fabric
+🧩Seeing about data sciencie and Software Engineer
 
 
-* Now just a basic Fabric mod creator
-* I want to create games for fun
+* Minecraft Mod Developer (Fabric, Forge, Architectury)
+* Obsidian Plugin/Theme Developer
+* Python Developer
 * When I'm bored I love to create 1-day-projects
 
   
@@ -17,8 +16,6 @@
 ![Discord](https://img.shields.io/badge/discord(nolink)-binaris-blue?style=for-the-badge&logo=discord&labelColor=2f2f2f&color=5865F2)
 [![Twitter](https://img.shields.io/badge/twitter-BadBinary01-blue?style=for-the-badge&logo=twitter&labelColor=fefefa&color=01c1ed
 )](https://twitter.com/BadBinary01)
-[![Instagram](https://img.shields.io/badge/instagram-albertbn00-blue?style=for-the-badge&logo=instagram&labelColor=2f2f2f&color=ff4cb9
-)](https://www.instagram.com/albertbn00/)
 [![CurseForge](https://img.shields.io/badge/curseforge-binaris__00-blue?style=for-the-badge&logo=curseforge&labelColor=151515&color=ca7200)](https://legacy.curseforge.com/members/binaris_00/projects)
 [![Modrith](https://img.shields.io/badge/modrinth-Binaris00-blue?style=for-the-badge&logo=modrinth&labelColor=2f2f2f&color=57F287
 )](https://modrinth.com/user/Binaris00)
